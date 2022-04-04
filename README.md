@@ -11,8 +11,6 @@ jednoduchy fulltext filter pre filtrovanie vyslednej kolekcie.
 
 **Aplikacia musi mat kod rozdeleny do troch "vrstiev" (tried):**
 
----
-
 **DAO:**
 * trieda v ktorej sa bude realizovat praca s databazou
 * musi mat rozhranie definujuce jej metody
@@ -42,7 +40,9 @@ jednoduchy fulltext filter pre filtrovanie vyslednej kolekcie.
 
 **Hlavné technólogie použité pri vývoji aplikácie:**
 Dao: JPA+JTA
+
 Service: CDI+EJB
+
 Api: JAX-RS
 
 ---
