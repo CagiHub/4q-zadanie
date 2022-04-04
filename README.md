@@ -41,7 +41,9 @@ jednoduchy fulltext filter pre filtrovanie vyslednej kolekcie.
 **Hlavné technólogie použité pri vývoji aplikácie:**
 
 Dao: JPA+JTA
+
 Service: CDI+EJB
+
 Api: JAX-RS
 
 ---
